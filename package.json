@@ -1,0 +1,22 @@
+{
+  "name": "yukht_arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukht/node_arrays.git"
+  },
+  "author": "Stanislav Yukht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukht/node_arrays/issues"
+  },
+  "homepage": "https://github.com/yukht/node_arrays#readme",
+  "dependencies": {
+    "search-array": "^1.6.0"
+  }
+}
